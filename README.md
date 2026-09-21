@@ -46,7 +46,3 @@ Record the following for each experiment:
 - Optimizer, learning rate, and batch size
 - Number of training epochs
 - Classical simulator or quantum hardware backend
-
-## Project Status
-
-This repository contains the implementation used for the accompanying paper and is intended for research and experimentation. Results may vary with preprocessing, initialization, simulator configuration, and hardware noise.
